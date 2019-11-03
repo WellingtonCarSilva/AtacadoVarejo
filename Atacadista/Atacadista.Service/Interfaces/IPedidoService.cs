@@ -5,8 +5,8 @@ namespace Atacadista.Service.Interfaces
 {
     public interface IPedidoService
     {
-        Task SolicitaOrcamentoAsync(Orcamento orcamento);
+        Task<Orcamento> SolicitaOrcamentoAsync(Orcamento orcamento);
 
-        Task AtualizaStatusPedidoAsync(Pedido pedido);
+        Task<Pedido> AtualizaStatusPedidoAsync(Pedido pedido);
     }
 }

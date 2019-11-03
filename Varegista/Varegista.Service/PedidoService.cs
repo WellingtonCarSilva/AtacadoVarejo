@@ -15,19 +15,23 @@ namespace Varegista.Service
             this.atacadistaAdapter = atacadistaAdapter ?? throw new ArgumentNullException(nameof(atacadistaAdapter));
         }
 
-        public async Task CancelaPedidoAsync(Guid id)
+        public async Task<Guid> CancelaPedidoAsync(Guid id)
         {
             await atacadistaAdapter.CancelaPedidoAsync(id);
+            return id;
         }
 
-        public async Task ConfirmaPedidoAsync(Guid id)
+        public async Task<Guid> ConfirmaPedidoAsync(Guid id)
         {
             await atacadistaAdapter.ConfirmaPedidoAsync(id);
+            return id;
         }
 
-        public async Task SolicitaOrcamentoAsync(Orcamento orcamento)
+        public async Task<Orcamento> SolicitaOrcamentoAsync(Orcamento orcamento)
         {
             await atacadistaAdapter.SolicitaOrcamentoAsync(orcamento);
+
+            return orcamento;
         }
     }
 }

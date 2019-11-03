@@ -16,12 +16,13 @@ namespace Atacadista.Service
                 ?? throw new ArgumentNullException(nameof(varegistaAdapter));
         }
 
-        public async Task AtualizaStatusPedidoAsync(Pedido pedido)
+        public async Task<Pedido> AtualizaStatusPedidoAsync(Pedido pedido)
         {
             await varegistaAdapter.NotificaStatusAsync(pedido.Id, pedido.Status);
+            return pedido;
         }
 
-        public async Task SolicitaOrcamentoAsync(Orcamento orcamento)
+        public async Task<Orcamento> SolicitaOrcamentoAsync(Orcamento orcamento)
         {
             foreach(var item in orcamento.Pedidos)
             {
@@ -29,6 +30,7 @@ namespace Atacadista.Service
             }
 
             await varegistaAdapter.SolicitaOrcamentoAsync(orcamento);
+            return orcamento;
         }
     }
 }

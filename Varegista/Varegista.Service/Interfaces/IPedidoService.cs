@@ -8,8 +8,8 @@ namespace Varegista.Service.Interfaces
 {
     public interface IPedidoService
     {
-        Task SolicitaOrcamentoAsync(Orcamento orcamento);
-        Task ConfirmaPedidoAsync(Guid id);
-        Task CancelaPedidoAsync(Guid id);
+        Task<Orcamento> SolicitaOrcamentoAsync(Orcamento orcamento);
+        Task<Guid> ConfirmaPedidoAsync(Guid id);
+        Task<Guid> CancelaPedidoAsync(Guid id);
     }
 }
