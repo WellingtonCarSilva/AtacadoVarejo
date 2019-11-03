@@ -1,0 +1,16 @@
+C:\Users\welli\source\repos\Varegista\Varegista.Dominio\bin\Debug\netstandard2.0\Varegista.Dominio.deps.json
+C:\Users\welli\source\repos\Varegista\Varegista.Dominio\bin\Debug\netstandard2.0\Varegista.Dominio.dll
+C:\Users\welli\source\repos\Varegista\Varegista.Dominio\bin\Debug\netstandard2.0\Varegista.Dominio.pdb
+C:\Users\welli\source\repos\Varegista\Varegista.Dominio\obj\Debug\netstandard2.0\Varegista.Dominio.csprojAssemblyReference.cache
+C:\Users\welli\source\repos\Varegista\Varegista.Dominio\obj\Debug\netstandard2.0\Varegista.Dominio.AssemblyInfoInputs.cache
+C:\Users\welli\source\repos\Varegista\Varegista.Dominio\obj\Debug\netstandard2.0\Varegista.Dominio.AssemblyInfo.cs
+C:\Users\welli\source\repos\Varegista\Varegista.Dominio\obj\Debug\netstandard2.0\Varegista.Dominio.dll
+C:\Users\welli\source\repos\Varegista\Varegista.Dominio\obj\Debug\netstandard2.0\Varegista.Dominio.pdb
+C:\Users\welli\source\repos\AtacadoVarejo\Varegista\Varegista.Dominio\bin\Debug\netstandard2.0\Varegista.Dominio.deps.json
+C:\Users\welli\source\repos\AtacadoVarejo\Varegista\Varegista.Dominio\bin\Debug\netstandard2.0\Varegista.Dominio.dll
+C:\Users\welli\source\repos\AtacadoVarejo\Varegista\Varegista.Dominio\bin\Debug\netstandard2.0\Varegista.Dominio.pdb
+C:\Users\welli\source\repos\AtacadoVarejo\Varegista\Varegista.Dominio\obj\Debug\netstandard2.0\Varegista.Dominio.csprojAssemblyReference.cache
+C:\Users\welli\source\repos\AtacadoVarejo\Varegista\Varegista.Dominio\obj\Debug\netstandard2.0\Varegista.Dominio.AssemblyInfoInputs.cache
+C:\Users\welli\source\repos\AtacadoVarejo\Varegista\Varegista.Dominio\obj\Debug\netstandard2.0\Varegista.Dominio.AssemblyInfo.cs
+C:\Users\welli\source\repos\AtacadoVarejo\Varegista\Varegista.Dominio\obj\Debug\netstandard2.0\Varegista.Dominio.dll
+C:\Users\welli\source\repos\AtacadoVarejo\Varegista\Varegista.Dominio\obj\Debug\netstandard2.0\Varegista.Dominio.pdb

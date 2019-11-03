@@ -1,0 +1,16 @@
+C:\Users\welli\source\repos\Atacadista\Atacadista.Dominio\bin\Debug\netstandard2.0\Atacadista.Dominio.deps.json
+C:\Users\welli\source\repos\Atacadista\Atacadista.Dominio\bin\Debug\netstandard2.0\Atacadista.Dominio.dll
+C:\Users\welli\source\repos\Atacadista\Atacadista.Dominio\bin\Debug\netstandard2.0\Atacadista.Dominio.pdb
+C:\Users\welli\source\repos\Atacadista\Atacadista.Dominio\obj\Debug\netstandard2.0\Atacadista.Dominio.csprojAssemblyReference.cache
+C:\Users\welli\source\repos\Atacadista\Atacadista.Dominio\obj\Debug\netstandard2.0\Atacadista.Dominio.AssemblyInfoInputs.cache
+C:\Users\welli\source\repos\Atacadista\Atacadista.Dominio\obj\Debug\netstandard2.0\Atacadista.Dominio.AssemblyInfo.cs
+C:\Users\welli\source\repos\Atacadista\Atacadista.Dominio\obj\Debug\netstandard2.0\Atacadista.Dominio.dll
+C:\Users\welli\source\repos\Atacadista\Atacadista.Dominio\obj\Debug\netstandard2.0\Atacadista.Dominio.pdb
+C:\Users\welli\source\repos\AtacadoVarejo\Atacadista\Atacadista.Dominio\bin\Debug\netstandard2.0\Atacadista.Dominio.deps.json
+C:\Users\welli\source\repos\AtacadoVarejo\Atacadista\Atacadista.Dominio\bin\Debug\netstandard2.0\Atacadista.Dominio.dll
+C:\Users\welli\source\repos\AtacadoVarejo\Atacadista\Atacadista.Dominio\bin\Debug\netstandard2.0\Atacadista.Dominio.pdb
+C:\Users\welli\source\repos\AtacadoVarejo\Atacadista\Atacadista.Dominio\obj\Debug\netstandard2.0\Atacadista.Dominio.csprojAssemblyReference.cache
+C:\Users\welli\source\repos\AtacadoVarejo\Atacadista\Atacadista.Dominio\obj\Debug\netstandard2.0\Atacadista.Dominio.AssemblyInfoInputs.cache
+C:\Users\welli\source\repos\AtacadoVarejo\Atacadista\Atacadista.Dominio\obj\Debug\netstandard2.0\Atacadista.Dominio.AssemblyInfo.cs
+C:\Users\welli\source\repos\AtacadoVarejo\Atacadista\Atacadista.Dominio\obj\Debug\netstandard2.0\Atacadista.Dominio.dll
+C:\Users\welli\source\repos\AtacadoVarejo\Atacadista\Atacadista.Dominio\obj\Debug\netstandard2.0\Atacadista.Dominio.pdb
